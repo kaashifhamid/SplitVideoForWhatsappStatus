@@ -1,6 +1,6 @@
 # SplitVideoForWhatsappStatus
 Whatsapp status has a limitation for video inputs (Only 30 Seconds of a video can be uploaded). 
-This small powershell snippet inputs one video file and splits into multiple 30 seconds video.
+This small powershell snippet inputs one video file and splits into multiple 30 seconds videos.
 
 
 ## Prerequisites
@@ -23,9 +23,9 @@ Here's how it works
 Input File Name: InputVideoFile.mp4
 Input File Duration: 51 Seconds
 
-Output File Name 1: InputVideoFile_1.mp4
-Output File Duration 1: 30 Seconds
+First Output File Name: InputVideoFile_1.mp4
+First Output File Duration: 30 Seconds
 
-Output File Name 2: InputVideoFile_1.mp4
-Output File Duration 2: 21 Seconds
+Second Output File Name: InputVideoFile_1.mp4
+Second Output File Duration: 21 Seconds
 ```
