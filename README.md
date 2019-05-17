@@ -26,6 +26,6 @@ Input File Duration: 51 Seconds
 First Output File Name: InputVideoFile_1.mp4
 First Output File Duration: 30 Seconds
 
-Second Output File Name: InputVideoFile_1.mp4
+Second Output File Name: InputVideoFile_2.mp4
 Second Output File Duration: 21 Seconds
 ```
